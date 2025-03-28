@@ -1,0 +1,65 @@
+/* Dashboard.css */
+.dashboard-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+    background-color: #f4f4f4;
+    min-height: 100vh;
+}
+
+.dashboard-header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.stats-card {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    padding: 20px;
+    background: white;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.stats-item {
+    text-align: center;
+    padding: 10px;
+}
+
+.stats-number {
+    font-size: 22px;
+    font-weight: bold;
+    color: #4CAF50;
+}
+
+.file-upload-section {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.file-upload-section input {
+    margin: 10px 0;
+}
+
+.uploaded-files {
+    margin-top: 20px;
+    background: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.uploaded-files ul {
+    list-style: none;
+    padding: 0;
+}
+
+.uploaded-files li {
+    margin: 5px 0;
+    padding: 10px;
+    background: #f9f9f9;
+    border-radius: 5px;
+}
