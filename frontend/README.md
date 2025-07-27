@@ -51,6 +51,10 @@ Node.js (LTS version)
 MongoDB (local or cloud database)
 NPM or Yarn
 
+<img width="1884" height="932" alt="image" src="https://github.com/user-attachments/assets/071b955e-cabf-47cf-b94d-a33e7609b2a3" />
+<img width="1877" height="904" alt="image" src="https://github.com/user-attachments/assets/0025ade2-3b5e-43c1-8169-372ef62e96a4" />
+
+
 📌 Usage
 Teachers: Upload assignments, view student submissions, and monitor AI-generated grades & feedback.
 Students: Submit assignments and receive AI-generated feedback & scores.
